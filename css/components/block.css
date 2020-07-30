@@ -1,0 +1,29 @@
+.block {
+  margin: auto;
+  width: 900px;
+}
+.block > h2 {
+  text-align: center;
+}
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.card {
+  width: 200px;
+  border-radius: 3px;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.2);
+}
+.card > p {
+  color: grey;
+  opacity: 1;
+}
+.card img {
+  height: 100px;
+}
+.links p i {
+  color: red;
+}

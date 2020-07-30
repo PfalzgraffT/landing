@@ -1,0 +1,25 @@
+.banner {
+  background-image: url(/home/thomasp/code/PfalzgraffT/fullstack-challenges/04-Front-End/02-CSS-components/03-Landing-page/./landing/images/background.png);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+.btn-main {
+  display: inline-block;
+  border-radius: 50px;
+  color: white;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+}
+.container {
+  width: 900px;
+  margin: auto;
+}
+.banner h1 {
+  color: white;
+}
+.banner p {
+  color: white;
+  font-size: 20px;
+  opacity: 0.7;
+}
